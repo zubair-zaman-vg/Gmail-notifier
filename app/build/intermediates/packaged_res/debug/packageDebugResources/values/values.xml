@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_black">#000000</color>
+    <color name="background_white">#FFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="glass_border">#000000</color>
+    <color name="glass_white">#FFFFFF</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="onPrimaryContainer">#000000</color>
+    <color name="onSecondary">#FFFFFF</color>
+    <color name="primary">#000000</color>
+    <color name="primaryContainer">#F2F2F2</color>
+    <color name="royal_black">#000000</color>
+    <color name="secondary">#000000</color>
+    <color name="surface_white">#FFFFFF</color>
+    <color name="text_black">#000000</color>
+    <color name="text_grey">#424242</color>
+    <color name="white">#FFFFFFFF</color>
+    <style name="Theme.GmailNotifierPro" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/onPrimary</item>
+        <item name="colorPrimaryContainer">@color/primaryContainer</item>
+        <item name="android:statusBarColor">@color/surface_white</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    <style name="Theme.GmailNotifierPro.FullscreenAlert" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:windowBackground">@color/background_white</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+</resources>

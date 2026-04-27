@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.zaizoor.notifierpro.app-debug-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.zaizoor.notifierpro.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.zaizoor.notifierpro.app-debug-4:\\drawable_glow_effect.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.zaizoor.notifierpro.app-main-6:\\drawable\\glow_effect.xml"
+    },
+    {
+        "merged": "com.zaizoor.notifierpro.app-debug-4:/layout_activity_history.xml.flat",
+        "source": "com.zaizoor.notifierpro.app-main-6:/layout/activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.zaizoor.notifierpro.app-debug-4:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.zaizoor.notifierpro.app-main-6:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "com.zaizoor.notifierpro.app-debug-4:/layout_activity_main.xml.flat",
+        "source": "com.zaizoor.notifierpro.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.zaizoor.notifierpro.app-debug-4:\\drawable_glass_card.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.zaizoor.notifierpro.app-main-6:\\drawable\\glass_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.zaizoor.notifierpro.app-debug-4:\\layout_activity_alert.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.zaizoor.notifierpro.app-main-6:\\layout\\activity_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.zaizoor.notifierpro.app-debug-4:\\layout_activity_filters.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.zaizoor.notifierpro.app-main-6:\\layout\\activity_filters.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.zaizoor.notifierpro.app-debug-4:\\drawable_ic_app_logo.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.zaizoor.notifierpro.app-main-6:\\drawable\\ic_app_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.zaizoor.notifierpro.app-debug-4:\\drawable_header_gradient.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.zaizoor.notifierpro.app-main-6:\\drawable\\header_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.zaizoor.notifierpro.app-debug-4:\\drawable_dot_active.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.zaizoor.notifierpro.app-main-6:\\drawable\\dot_active.xml"
+    }
+]

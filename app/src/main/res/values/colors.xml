@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#000000</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="primaryContainer">#F2F2F2</color>
+    <color name="onPrimaryContainer">#000000</color>
+    
+    <color name="secondary">#000000</color>
+    <color name="onSecondary">#FFFFFF</color>
+    
+    <color name="background_white">#FFFFFF</color>
+    <color name="surface_white">#FFFFFF</color>
+    <color name="text_black">#000000</color>
+    <color name="text_grey">#424242</color>
+    <color name="accent_black">#000000</color>
+    <color name="royal_black">#000000</color>
+    
+    <color name="glass_white">#FFFFFF</color>
+    <color name="glass_border">#000000</color>
+    
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
